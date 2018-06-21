@@ -102,7 +102,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/vuDtUVj.png)
 
-`https://raw.githubusercontent.com/STM0x0/Stim-1/master/stim_install.sh`
+`wget https://raw.githubusercontent.com/STM0x0/Stim-1/master/stim_install.sh`
 ***
 
 ***Step 8***
