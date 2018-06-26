@@ -133,7 +133,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Stim wallet [here]https://github.com/Stim-Community/stim/releases)
+* Download and install the Stim wallet [here](https://github.com/Stim-Community/stim/releases)
 ***
 
 ***Step 2***
