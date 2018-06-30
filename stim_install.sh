@@ -11,7 +11,7 @@ COIN_TGZ='https://github.com/STM0x0/Stim-1/releases/download/v1.0.0.1/stim.zip'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='Stim'
 COIN_PORT=8093
-RPC_PORT=8103
+RPC_PORT=8091
 
 NODEIP=$(curl -s4 icanhazip.com)
 
