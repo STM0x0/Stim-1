@@ -108,7 +108,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***Step 8***
 * Paste the code below into the Bitvise terminal then press enter
 
-`./stim_install.sh`
+`bash ./stim_install.sh`
 
 ![Example-Bash](https://i.imgur.com/myvmKTE.png)
 
